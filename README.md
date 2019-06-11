@@ -489,6 +489,7 @@ Projects with over 500 stargazers are in bold.
 
 * [Kamon](http://kamon.io) - Gathering metrics from applications built with Akka, Spray and Play! with support for user metrics as well.
 * [Metrics-Scala ★ 335](https://github.com/erikvanoosten/metrics-scala) - Scala API for Dropwizard's Metrics library.
+* [Treelog ★ 194](https://github.com/lancewalton/treelog) - monadic logging as a tree structure so that comprehensive logging does not become incomprehensible
 
 ## Parsing
 
